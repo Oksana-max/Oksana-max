@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm Frontend Developer!	:relaxed: <br>
 **How to contanct me**: Just send me email to oksana-91-oks@mail.ru or  <a href="https://t.me/vovoxbaseball"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img><br></a>
-**My education:** St. Petersburg State Agrarian University, agronomy (Plant protection).<br>
+**My education:** St. Petersburg State Agricultural University, agronomy (Plant protection).<br>
 
 # My tech stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
