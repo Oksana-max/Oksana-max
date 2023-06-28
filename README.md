@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
 
+# My Code Wars
+<img src="https://www.codewars.com/users/Oksana91/badges/small"></img>
+
+
 # My social networks 
 <a href="https://m.vk.com/oksiko"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"></img></a>
 <a href="https://www.instagram.com/oksikopavlova"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
